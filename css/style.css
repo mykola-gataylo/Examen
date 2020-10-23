@@ -94,7 +94,7 @@ a:active {
   padding: 15px;
 }
 .container .header__background {
-  background: url("./../img/header_bg.jpg");
+  background: url("../img/header_bg.jpg");
   background-repeat: no-repeat;
   height: 820px;
 }
@@ -254,7 +254,7 @@ a:active {
   top: 10px;
 }
 .container .choose__background {
-  background: url("./../img/choose_bg.jpg");
+  background: url("../img/choose_bg.jpg");
   background-repeat: no-repeat;
   height: 685px;
 }
@@ -364,7 +364,7 @@ a:active {
   display: none;
 }
 .container .home__background {
-  background: url("./../img/home_bg.jpg");
+  background: url("../img/home_bg.jpg");
   background-repeat: no-repeat;
   height: 700px;
   padding: 230px 0 100px 0;
@@ -413,7 +413,7 @@ a:active {
   text-align: center;
 }
 .container .sun__background {
-  background: url("./../img/daybreak_bg.jpg");
+  background: url("../img/daybreak_bg.jpg");
   background-repeat: no-repeat;
   height: 700px;
   padding: 230px 0 100px;
@@ -462,7 +462,7 @@ a:active {
   text-align: center;
 }
 .container .tourist__background {
-  background: url("./../img/tourist_bg.jpg");
+  background: url("../img/tourist_bg.jpg");
   background-repeat: no-repeat;
   height: 730px;
 }
