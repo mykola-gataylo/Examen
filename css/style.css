@@ -1,3 +1,8 @@
+html {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -194,6 +199,10 @@ a:active {
 .container .nav__background {
   background: #5474fd;
   height: 80px;
+}
+.container scroll-container {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
 }
 .container .nav {
   height: 80px;

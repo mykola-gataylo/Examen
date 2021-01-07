@@ -122,6 +122,11 @@
     height: 80px;
   }
 
+  scroll-container {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+  }
+
   .nav {
     height: 80px;
     display: flex;
